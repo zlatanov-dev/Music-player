@@ -1,6 +1,6 @@
 Music Player
 
-Try it out! -
+Try it out! - https://music-player-z.github.io/
 
 This project is a simple music player built using HTML, CSS, and JavaScript. The player allows users to play, pause, skip to the previous or next track, and view the progress of the currently playing track.
 Getting Started
